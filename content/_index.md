@@ -1,5 +1,5 @@
 ---
-title: We the People are the Final Guardrail
+title: The Final Guardrail is US
 toc: false
 type: docs
 ---

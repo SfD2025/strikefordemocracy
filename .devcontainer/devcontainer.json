@@ -7,7 +7,10 @@
 	"features": {
 		"ghcr.io/devcontainers/features/hugo:1": {
 			"version": "latest"
-		}
+		},
+        "ghcr.io/devcontainers/features/go:1": {  // Add this
+            "version": "latest" // Or specify a version like "1.20"
+        }
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
