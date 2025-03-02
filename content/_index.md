@@ -24,6 +24,7 @@ If you, too, recognize that our [courts have no power to enforce their rulings](
 
 {{< cards >}}
   {{< card link="strike" title="The Strike" icon="document-text" >}}
+  {{< card link="updates/" title="Weekly Updates" icon="calendar" >}}
   {{< card link="resources" title="Resources" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}

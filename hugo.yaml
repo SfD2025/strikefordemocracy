@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Weekly Updates
+      pageRef: /updates
+      weight: 1
     - name: Search
       weight: 4
       params:
