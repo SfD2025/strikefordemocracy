@@ -9,9 +9,15 @@ American democracy is built on a system of checks and balances, created by our f
  > We are the federal law. You better do it because you’re not going to get federal funding.<br>
  > <cite>— Donald J. Trump[^1]</cite>
 
-[^1]: Excerpt from the [National Governor's Association event](https://thehill.com/homenews/state-watch/5157818-trump-janet-mills-maine-transgender-athletes/) on February 21, 2025.
+[^1]: Speaking to Janet Mills, the governor of Maine, at the [National Governor's Association event](https://thehill.com/homenews/state-watch/5157818-trump-janet-mills-maine-transgender-athletes/) on February 21, 2025.
 
-## Explore
+## [Congress has Given Up its Power](https://news.bloomberglaw.com/bloomberg-government-news/gop-lawmakers-cede-to-trump-musk-power-grab-without-a-challenge)
+
+If you, too, recognize that our [courts have no power to enforce their rulings](https://www.politico.com/news/magazine/2025/02/11/jd-vance-trump-executive-power-supreme-court-00203537), and congress will not act until their constituents rise up and shut down the country in protest, then join us [every Friday in our Telegram channel](https://t.me/StrikeForDemocracy). Each Thursday evening we'll shut down the old poll, and Friday morning we'll start a new one, asking you to renew your commitment to shutting down the country as a means to restoring our democracy.
+
+## [Peaceful Protests Work](https://www.theguardian.com/world/2025/jan/15/stand-up-and-be-counted-six-ways-to-protest-that-will-make-your-voice-heard)
+
+
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
