@@ -1,9 +1,13 @@
 ---
-title: My Site
+title: We the People are the Final Guardrail
 toc: false
+type: docs
 ---
 
-This is the landing page.
+American democracy is built on a system of checks and balances, created by our founders and written into our constitution, to prevent exactly the thing that is happening today.
+
+ > We are the federal law<br>
+ > — Donald J. Trump
 
 ## Explore
 
