@@ -4,7 +4,14 @@ toc: false
 type: docs
 ---
 
-Our ideal target would be 14 million "Yes" votes in [our weekly poll](https://t.me/StrikeForDemocracy), though perhaps as few as 12 million depending on the state of things. Once a given poll reaches 12-14 million "yes" votes, we'll steel our resolve and announce the strike date in the channel - potentially within the week if global events warrant.
+Our ideal target would be 14 million "Yes" votes in [our weekly poll](https://t.me/StrikeForDemocracy), though perhaps as few as 12 million depending on the state of things. Once a given poll reaches 12-14 million "yes" votes, we'll steel our resolve and announce the strike date in the channel— potentially within the week if global events warrant.
+
+Once the strike starts, unless you're involved in life-saving care, you should stay home from work and let your employer know that we have come to the point of shutting down the country to save our democracy. I may lose my job, and you may lose yours— but as I told my wife,
+
+> Yes, I love my job, and I love my co-workers, and I have no desire to hurt any of them. But held against the future of democracy in my country, and around the world, it's importance is insignificant.<br>
+> — Me
+
+We'll also need to stop our spending and subsist on the minimum possible.
 
 ## It will be hard - but not as hard as COVID
 
@@ -21,3 +28,4 @@ You can find them in [the channel](ps://t.me/StrikeForDemocracy), but our demand
 
 ## Ending the Strike
 
+Once the congress responds and acts to restore democracy, meeting at least the first two of our demands (the third will take more time), we will open a new poll in the channel to ask you if you're satisfied that the national crisis is past and we can safely end our strike.
