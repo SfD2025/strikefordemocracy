@@ -12,7 +12,7 @@ As you read this, remember— by the time the strike is triggered, it will be cl
 
 Each of us will need to prepare for the strike in our own way— stocking up on canned goods, renewing hobbies we started during COVID. Hopefully you will have already joined up with local protest groups, and will at least have the benefit of community with your fellow Americans as some of you take to the streets with your signs and banners.
 
-I expect a rough few weeks— truthfully, though, I'm not sure it can be much worse than things are right now, or will be when fourteen million of us have decided we've had enough.
+I expect a rough several weeks or months— truthfully, though, I'm not sure it can be much worse than things are right now, or will be when fourteen million of us have decided we've had enough.
 
 ## Our Demands
 
