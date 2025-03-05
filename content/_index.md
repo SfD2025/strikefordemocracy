@@ -6,8 +6,10 @@ type: docs
 
 American democracy is built on a system of checks and balances, created by our founders and written into our constitution, to prevent exactly the thing that is happening today.
 
- > We are the federal law. You better do it because you’re not going to get federal funding.<br>
- > <cite>— Donald J. Trump[^1]</cite>
+> We are the federal law. You better do it because you’re not going to get federal funding.<br>
+> <cite>— Donald J. Trump[^1]</cite>
+
+![Your Movement Logo](/images/SFD.jpg)
 
 [^1]: Speaking to Janet Mills, the governor of Maine, at the [National Governor's Association event](https://thehill.com/homenews/state-watch/5157818-trump-janet-mills-maine-transgender-athletes/) on February 21, 2025.
 
