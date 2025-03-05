@@ -29,7 +29,7 @@ We've spoken to our fellow Americans at protests and in line at the grocery stor
 > Give me liberty, or give me death.<br>
 > — Patrick Henry
 
-So, from this point forward, let's embrace the fiction[^3] that Trump is a ruthless dictator— one who will soon eliminate the independent press, prevent a truly free and fair election, and strip away our First Amendment rights to political speech such as this. That's the context for the quote above; that living in a free democracy— and supporting free democracies around the globe— holds more importance to us than anything else. This site is all about what we can do, and how we can stop this, should we wake up one day and find the sci-Fi dystopia is real.
+So, from this point forward, let's embrace the fiction[^3] that Trump is a ruthless dictator— one who will soon eliminate the independent press, prevent a truly free and fair election, and strip away our First Amendment rights to political speech such as this. That's the context for the quote above; that living in a free democracy— and supporting free democracies around the globe— holds more importance to us than anything else. This site is all about what we can do, and how we can stop this, should we wake up one day and find the Sci-Fi dystopia is real.
 
 [^3]: Well, we *hope* it's a fiction.
 
