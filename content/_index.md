@@ -33,7 +33,7 @@ So, from this point forward, let's embrace the fiction[^3] that Trump is a ruthl
 
 [^3]: Well, we *hope* it's a fiction.
 
-If you're still reading, even if you're thinking "wow, these people are NUTS!", then I invite you to join us here and on [Telegram](https://t.me/SfD_2025) every week, if only just to see what we're up to and to see the reactions to our updates.
+If you're still reading, even if you're thinking "wow, these people are NUTS!", then we invite you to join us here and on [Telegram](https://t.me/SfD_2025) every week, if only just to see what we're up to and to see the reactions to our updates.
 
 We're in this together[^4].
 
