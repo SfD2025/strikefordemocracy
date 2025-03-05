@@ -24,7 +24,7 @@ The Guardian reports that some GOP members of Congress are afraid to oppose Trum
 
 ## Let's All Swallow the Red Pill Together
 
-We've spoken to our fellow Americans at protests and in line at the grocery store, in the living rooms of friends and family, in online communities and in the offices of our co-workers; the conversations all have a common theme— many of us are just scared shitless and we don't know what to do or what's going to happen. My proposal to you is this: let's embrace the possibility that we're living in a Sci-Fi dystopia, and band together to find a glimmer of hope and community.
+We've spoken to our fellow Americans at protests and in line at the grocery store, in the living rooms of friends and family, in online communities and in the offices of our co-workers; the conversations all have a common theme— many of us are just scared shitless and we don't know what to do or what's going to happen. Our proposal to you is this: let's embrace the possibility that we're living in a Sci-Fi dystopia, and band together to find a glimmer of hope and community.
 
 > Give me liberty, or give me death.<br>
 > — Patrick Henry
