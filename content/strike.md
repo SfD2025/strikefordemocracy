@@ -6,7 +6,7 @@ type: docs
 
 Our ideal target would be 14 million "Yes" votes in [our weekly poll](https://t.me/SfD_2025), though perhaps as few as 12 million depending on quickly things go south. Once a given poll reaches 12-14 million "yes" votes, we'll steel our resolve and announce the strike date in the channel— potentially within the week if global events warrant.
 
-As you read this, remember— by the time the strike is triggered, it will be clear that our worst fears have been realized, and that the only solution is for all of us to rise up - **peacefully** - and refuse to go along with the loss of American Democracy. Once the strike starts, unless you're involved in life-saving care, you should stay home from work and let your employer know that we have come to the point of shutting down the country to save our democracy. I may lose my job, and you may lose yours— but by the time we get to that point, my job won't matter much in the grand scheme of things.
+As you read this, remember— by the time the strike is triggered, it will be clear that our worst fears have been realized, and that the only solution is for all of us to rise up - **peacefully** - and refuse to go along with the loss of American Democracy. Once the strike starts, unless you're involved in life-saving care, you should stay home from work and let your employer know that we have come to the point of shutting down the country to save our democracy. I may lose my job, and you may lose yours— but by the time we get to that point, our jobs won't matter much in the grand scheme of things.
 
 ## It will be hard - but not as hard as COVID
 
