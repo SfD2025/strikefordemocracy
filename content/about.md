@@ -3,7 +3,7 @@ title: About
 type: about
 ---
 
-The Strike for Democracy is the result of a middle aged man and his daughter deciding that the Trump regime needed to be stopped. Informed by articles in [The Guardian](https://www.theguardian.com/world/2025/jan/15/stand-up-and-be-counted-six-ways-to-protest-that-will-make-your-voice-heard) and [The New Yorker](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-aclu-vs-trump-20), this was the best idea we had. We wanted a weekly check-in for readiness to strike— we wanted our fellow Americans to see, every week, that hundreds, thousands, eventually millions of their fellow Americans were ready to stand with them in solidarity. We wanted you all to know, every week, that **you're not alone.**
+The Strike for Democracy a rag-tag band of nerds and students that have all come to the same conclusion - the Trump regime needs to be stopped, and massive, **peaceful** and **non-violent** protests and civil disobedience are the best way. Informed by articles in [The Guardian](https://www.theguardian.com/world/2025/jan/15/stand-up-and-be-counted-six-ways-to-protest-that-will-make-your-voice-heard) and [The New Yorker](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-aclu-vs-trump-20), this was the best idea we could come up with. We wanted a weekly check-in for readiness to strike— we wanted our fellow Americans to see, every week, that hundreds, thousands, eventually millions of their fellow Americans were ready to stand with them in solidarity. We wanted you all to know, every week, that **you're not alone.**
 
 The choice of [Telegram](https://telegram.org/) was based on a few factors.
 

@@ -22,7 +22,22 @@ The Guardian reports that some GOP members of Congress are afraid to oppose Trum
 
 [^2]: From [The New Yorker Interview](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-aclu-vs-trump-20) with Anthony Romero, executive director of the ACLU.
 
-If you, too, recognize that our [courts have no power to enforce their rulings](https://www.politico.com/news/magazine/2025/02/11/jd-vance-trump-executive-power-supreme-court-00203537), and congress will not act until their constituents [rise up and shut down the country](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-aclu-vs-trump-20) in protest, then join us [every Friday in our Telegram channel](https://t.me/StrikeForDemocracy). Each Thursday evening we'll shut down the old poll, and Friday morning we'll start a new one, asking you to renew your commitment to shutting down the country as a means to restoring our democracy.
+## Let's All Swallow the Red Pill Together
+
+We've spoken to our fellow Americans at protests and in line at the grocery store, in the living rooms of friends and family, in online communities and in the offices of our co-workers; the conversations all have a common theme— many of us are just scared shitless and we don't know what to do or what's going to happen. My proposal to you is this: let's embrace the possibility that we're living in a Sci-Fi dystopia, and band together to find a glimmer of hope and community.
+
+> Give me liberty, or give me death.<br>
+> — Patrick Henry
+
+So, from here on out, let's embrace the fiction[^3] that Trump is a ruthless dictator who will soon eliminate the independent press, take away our voting rights, and deny our first amendment rights to political speech such as this. That's the context for the quote above; that living in a free democracy— and supporting free democracies around the globe— holds more importance to us than anything else. This site is all about what we can do, and how we can stop this, should we wake up one day and find the Sci-Fi Dystopia is Real.
+
+[^3]: Well, we *hope* it's a fiction.
+
+If you're still reading, even if you're thinking "wow, these people are NUTS!", then I invite you to join us here and on [Telegram](https://t.me/SfD_2025) every week, if only just to see what we're up to and to see the reactions to our updates.
+
+We're in this together[^4].
+
+[^4]: With a nod to [Joyce Vance](https://joycevance.substack.com/) for the phrase that always brings comfort.
 
 {{< cards >}}
   {{< card link="strike" title="The Strike" icon="document-text" >}}

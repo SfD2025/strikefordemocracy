@@ -1,3 +1,3 @@
 ---
-title: Latest Updates
+title: Weekly Updates
 ---
