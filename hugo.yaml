@@ -29,7 +29,12 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/SFD.jpg
+      link: /
+      width: 70
+      height: 70
 
   footer:
     displayCopyright: false
