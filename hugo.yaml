@@ -18,7 +18,7 @@ markup:
 
 menu:
   main:
-    - name: Weekly Updates
+    - name: Updates
       pageRef: /updates
       weight: 1
     - name: Search
@@ -27,6 +27,8 @@ menu:
         type: search
 
 params:
+  summaryLength: 42
+
   navbar:
     displayTitle: true
     displayLogo: true

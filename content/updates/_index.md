@@ -1,3 +1,4 @@
 ---
-title: Weekly Updates
+title: Updates
+type: blog
 ---

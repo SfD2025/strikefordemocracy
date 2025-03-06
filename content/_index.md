@@ -9,7 +9,7 @@ American democracy is built on a system of checks and balances, created by our f
 > We are the federal law. You better do it because you’re not going to get federal funding.<br>
 > <cite>— Donald J. Trump[^1]</cite>
 
-![Your Movement Logo](/images/SFD.jpg)
+![Strike for Democracy](/images/SFD.jpg)
 
 [^1]: Speaking to Janet Mills, the governor of Maine, at the [National Governor's Association event](https://thehill.com/homenews/state-watch/5157818-trump-janet-mills-maine-transgender-athletes/) on February 21, 2025.
 
@@ -41,7 +41,7 @@ We're in this together[^4].
 
 {{< cards >}}
   {{< card link="strike" title="The Strike" icon="document-text" >}}
-  {{< card link="updates/" title="Weekly Updates" icon="calendar" >}}
+  {{< card link="updates/" title="Updates" icon="calendar" >}}
   {{< card link="resources" title="Resources" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
