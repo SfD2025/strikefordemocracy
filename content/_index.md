@@ -4,7 +4,7 @@ toc: false
 type: docs
 ---
 
-American democracy is built on a system of checks and balances, created by our founders and written into our constitution, to prevent exactly the thing that is happening today.
+American democracy is built on a system of checks and balances, created by our founders and enshrined in our constitution, to prevent exactly the thing that is happening today.
 
 > We are the federal law. You better do it because you’re not going to get federal funding.<br>
 > <cite>— Donald J. Trump[^1]</cite>
@@ -22,14 +22,14 @@ The Guardian reports that some GOP members of Congress are afraid to oppose Trum
 
 [^2]: From [The New Yorker Interview](https://www.newyorker.com/podcast/the-new-yorker-radio-hour/the-aclu-vs-trump-20) with Anthony Romero, executive director of the ACLU.
 
-## Let's All Swallow the Red Pill Together
+## Into the Twilight Zone ...
 
-We've spoken to our fellow Americans at protests and in line at the grocery store, in the living rooms of friends and family, in online communities and in the offices of our co-workers; the conversations all have a common theme— many of us are just scared shitless and we don't know what to do or what's going to happen. Our proposal to you is this: let's embrace the possibility that we're living in a Sci-Fi dystopia, and band together to find a glimmer of hope and community.
+We've spoken to our fellow Americans at protests and in line at the grocery store, in the living rooms of friends and family, in online communities and in the offices of our co-workers; the conversations all have a common theme— many of us are just scared shitless and we don't know what to do or what's going to happen. Our proposal to you is this: let's just assume that we are, in fact, living in a Sci-Fi dystopia, and band together to find a glimmer of hope and community.
 
 > Give me liberty, or give me death.<br>
 > — Patrick Henry
 
-So, from this point forward, let's embrace the fiction[^3] that Trump is a ruthless dictator— one who will soon eliminate the independent press, prevent a truly free and fair election, and strip away our First Amendment rights to political speech such as this. That's the context for the quote above; that living in a free democracy— and supporting free democracies around the globe— holds more importance to us than anything else. This movement is all about what we can do, and how we can stop this, should we wake up one day and find the Sci-Fi dystopia is real.
+From this point forward, we'll embrace the fictional[^3] narrative— our origin story, as it were— that Trump is a ruthless dictator; one who will soon eliminate the independent press, prevent a truly free and fair election, and strip away our First Amendment rights to political speech such as this. That's the context for the quote above; that living in a free democracy— and supporting free democracies around the globe— holds more importance to us than anything else. This movement is all about what we can do, how we can support each other and eventually stop this madness, should we wake up one day and find the Sci-Fi dystopia is real.
 
 [^3]: Well, we *hope* it's a fiction.
 
