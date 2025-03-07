@@ -15,7 +15,7 @@ American democracy is built on a system of checks and balances, created by our f
 
 ## [Congress has Given Up its Power](https://news.bloomberglaw.com/bloomberg-government-news/gop-lawmakers-cede-to-trump-musk-power-grab-without-a-challenge)
 
-The Guardian reports that some GOP members of Congress are afraid to oppose Trump [because of fear for their safety](https://www.theguardian.com/us-news/2025/feb/27/republicans-trump-threats) and the safety of their families. So, what happens if the courts can't stop the Trump regime?
+The Guardian reports that some GOP members of Congress are afraid to oppose Trump [because of fear for their safety](https://www.theguardian.com/us-news/2025/feb/27/republicans-trump-threats) and the safety of their families. So, what happens if the courts can't stop the Trump regime? What if Project 2025 leadership decides to just ignore court orders, given that no enforcement mechanism exists outside the executive branch?
 
 > Then we’ve got to take to the streets in a different way—We've got to shut down this country.<br>
 > <cite>— Anthony Romero, ACLU[^2]</cite>
